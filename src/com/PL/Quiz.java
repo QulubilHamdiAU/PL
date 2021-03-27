@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Quiz {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int Angka1;
+        double Angka1;
         double phi = 3.14;
         double Luas = 0;
         System.out.println("==== MENGHITUNG LUAS LINGKARAN ====");
